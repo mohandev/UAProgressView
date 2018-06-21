@@ -8,6 +8,12 @@
 
 #import <UIKit/UIKit.h>
 
+//! Project version number for UAProgressView.
+FOUNDATION_EXPORT double UAProgressViewVersionNumber;
+
+//! Project version string for UAProgressView.
+FOUNDATION_EXPORT const unsigned char UAProgressViewVersionString[];
+
 @interface UAProgressView : UIView <CAAnimationDelegate>
 
 /**
